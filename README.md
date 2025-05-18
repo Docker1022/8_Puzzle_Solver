@@ -328,6 +328,7 @@ Q-Learning xây dựng một bảng giá trị gọi là Q-table, trong đó m�
 Đồ àn được thực hiện bởi:
 
 Sinh viên thực hiện: Đoàn Vĩnh Phát – MSSV: 23110283
+
 Đây là đồ án cá nhân phục vụ mục đích học tập, đồng thời là dự án nghiên cứu và thử nghiệm các thuật toán tìm kiếm trí tuệ nhân tạo (AI) trên bài toán 8-Puzzle, với định hướng tối ưu hóa hiệu suất và nâng cao trải nghiệm người dùng.
 
 
