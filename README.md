@@ -325,16 +325,20 @@ Q-Learning xây dựng một bảng giá trị gọi là Q-table, trong đó m�
 
 ---
 ### 3. Tác giả
+Đồ àn được thực hiện bởi:
+
 Sinh viên thực hiện: Đoàn Vĩnh Phát – MSSV: 23110283
-Đây là đồ án cá nhân phục vụ mục đích học tập, đồng thời là công trình nghiên cứu và thử nghiệm các thuật toán tìm kiếm trí tuệ nhân tạo (AI) trên bài toán 8-Puzzle, với định hướng tối ưu hóa hiệu suất và nâng cao trải nghiệm người dùng.
+Đây là đồ án cá nhân phục vụ mục đích học tập, đồng thời là dự án nghiên cứu và thử nghiệm các thuật toán tìm kiếm trí tuệ nhân tạo (AI) trên bài toán 8-Puzzle, với định hướng tối ưu hóa hiệu suất và nâng cao trải nghiệm người dùng.
 
 
 
 ---
 ### 4. Tài liệu tham khảo
-S. J. Russell & P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed., Pearson, 2020.
-
 S. J. Russell & P. Norvig, Artificial Intelligence: A Modern Approach, 3rd ed., Pearson, 2016.
 
-Một số công cụ hỗ trợ như: ChatGPT, Cursor,…
+S. J. Russell & P. Norvig, Artificial Intelligence: A Modern Approach, 4th ed., Pearson, 2020.
+
+Stanford University. (2020). Reinforcement Learning and Control - CS229, Fall 2020.
+
+Một số công cụ hỗ trợ như: Grok 3 AI, ChatGPT, DeepSeek,…
 
